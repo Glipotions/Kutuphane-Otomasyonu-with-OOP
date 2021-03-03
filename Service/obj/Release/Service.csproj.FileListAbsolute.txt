@@ -1,0 +1,7 @@
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Release\Service.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Release\Service.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Release\Data.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Release\Data.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Release\Service.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Release\Service.pdb

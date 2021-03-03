@@ -1,0 +1,16 @@
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Data\bin\Debug\Data.dll
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Data\bin\Debug\Data.pdb
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Debug\Data.dll
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Debug\Data.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\bin\Debug\Data.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\bin\Debug\Data.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Debug\Data.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Debug\Data.pdb
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Data\bin\Debug\Data.dll
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Data\bin\Debug\Data.pdb
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Data\obj\Debug\Data.dll
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Data\obj\Debug\Data.pdb
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Data\obj\Debug\Data.csprojAssemblyReference.cache

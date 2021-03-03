@@ -1,0 +1,4 @@
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\bin\Release\Data.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\bin\Release\Data.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Release\Data.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Data\obj\Release\Data.pdb

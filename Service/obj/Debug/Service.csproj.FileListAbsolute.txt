@@ -1,0 +1,34 @@
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Service.dll
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Service.pdb
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Data.dll
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Data.pdb
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.dll
+C:\Users\hamza\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Service.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Service.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Data.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Data.pdb
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.dll
+C:\Users\irem\Desktop\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.pdb
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Service.dll
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Service.pdb
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Data.dll
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\bin\Debug\Data.pdb
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.dll
+C:\Users\hamza\Desktop\C# projelerddd\C# projeler\kutuphaneKatmanli\Service\obj\Debug\Service.pdb
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\obj\Debug\Service.dll
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\obj\Debug\Service.pdb
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\bin\Debug\Service.dll
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\bin\Debug\Service.pdb
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\bin\Debug\Data.dll
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\bin\Debug\Data.pdb
+C:\Users\hamza\Desktop\C# projeler-\kutuphaneKatmanli\Service\obj\Debug\Service.csproj.CopyComplete
